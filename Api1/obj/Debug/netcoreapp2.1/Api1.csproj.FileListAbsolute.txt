@@ -1,0 +1,14 @@
+D:\MyProject\ID4\IdentyServer4\Api1\bin\Debug\netcoreapp2.1\Api1.deps.json
+D:\MyProject\ID4\IdentyServer4\Api1\bin\Debug\netcoreapp2.1\Api1.runtimeconfig.json
+D:\MyProject\ID4\IdentyServer4\Api1\bin\Debug\netcoreapp2.1\Api1.runtimeconfig.dev.json
+D:\MyProject\ID4\IdentyServer4\Api1\bin\Debug\netcoreapp2.1\Api1.dll
+D:\MyProject\ID4\IdentyServer4\Api1\bin\Debug\netcoreapp2.1\Api1.pdb
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.csprojAssemblyReference.cache
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.csproj.CoreCompileInputs.cache
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.RazorAssemblyInfo.cache
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.RazorAssemblyInfo.cs
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.AssemblyInfoInputs.cache
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.AssemblyInfo.cs
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.RazorTargetAssemblyInfo.cache
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.dll
+D:\MyProject\ID4\IdentyServer4\Api1\obj\Debug\netcoreapp2.1\Api1.pdb
