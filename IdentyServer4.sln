@@ -4,19 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentyServer4", "IdentyServer4\IdentyServer4.csproj", "{8AE47B0D-1FDC-4465-9B2D-DEEFFFAC70A5}"
-	ProjectSection(ProjectDependencies) = postProject
-		{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41} = {B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}
-		{628664ED-B5DA-48BA-B27A-B0A8BF92F1F0} = {628664ED-B5DA-48BA-B27A-B0A8BF92F1F0}
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{D6A76874-313E-4E0B-88A7-3B6D8C08DA01}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{628664ED-B5DA-48BA-B27A-B0A8BF92F1F0}"
-	ProjectSection(ProjectDependencies) = postProject
-		{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41} = {B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api1", "Api1\Api1.csproj", "{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{42FD196A-B4A3-4F9D-A3CB-9CAD56A98D0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +35,10 @@ Global
 		{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B28CEA30-8D48-4D9E-A273-A5E56E9C5B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FD196A-B4A3-4F9D-A3CB-9CAD56A98D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FD196A-B4A3-4F9D-A3CB-9CAD56A98D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FD196A-B4A3-4F9D-A3CB-9CAD56A98D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FD196A-B4A3-4F9D-A3CB-9CAD56A98D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
