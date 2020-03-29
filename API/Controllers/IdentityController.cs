@@ -13,7 +13,8 @@ namespace API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return new JsonResult(from c in User.Claims select new { c.Type, c.Value });
+            //return new JsonResult(from c in User.Claims select new { c.Type, c.Value });
+            return new JsonResult("Name- Jitendra Behera-S/W-Developer Comapny-Bridgetree");
         }
     }
 }
