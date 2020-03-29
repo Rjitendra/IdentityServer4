@@ -492,11 +492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\My Project\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "C:\\Workspace\\My Project\\IdentityServer\\IdentityServer.csproj",
+      "projectPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
       "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\My Project\\IdentityServer\\obj\\",
+      "outputPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

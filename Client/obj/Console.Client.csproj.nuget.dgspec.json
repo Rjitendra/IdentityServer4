@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj": {}
+    "C:\\Workspace\\My Project\\f\\IdentityServer4\\Client\\Console.Client.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj": {
+    "C:\\Workspace\\My Project\\f\\IdentityServer4\\Client\\Console.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
-        "projectName": "IdentityServer",
-        "projectPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "C:\\Workspace\\My Project\\f\\IdentityServer4\\Client\\Console.Client.csproj",
+        "projectName": "Console.Client",
+        "projectPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\Client\\Console.Client.csproj",
         "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\IdentityServer\\obj\\",
+        "outputPath": "C:\\Workspace\\My Project\\f\\IdentityServer4\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,13 +41,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "IdentityServer4": {
+            "IdentityModel": {
               "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "IdentityServer4.Storage": {
-              "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[4.1.1, )"
             }
           },
           "imports": [
@@ -61,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
