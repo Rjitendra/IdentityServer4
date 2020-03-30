@@ -1,0 +1,13 @@
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.exe
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.deps.json
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.runtimeconfig.json
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.runtimeconfig.dev.json
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.dll
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Console.Client.pdb
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Workspace\My Project\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\My Project\Client\obj\Debug\netcoreapp3.1\Console.Client.AssemblyInfoInputs.cache
+C:\Workspace\My Project\Client\obj\Debug\netcoreapp3.1\Console.Client.AssemblyInfo.cs
+C:\Workspace\My Project\Client\obj\Debug\netcoreapp3.1\Console.Client.csproj.CopyComplete
+C:\Workspace\My Project\Client\obj\Debug\netcoreapp3.1\Console.Client.dll
+C:\Workspace\My Project\Client\obj\Debug\netcoreapp3.1\Console.Client.pdb
